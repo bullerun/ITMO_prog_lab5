@@ -1,10 +1,7 @@
-public class Main {
+package Run;
+
+public class App{
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
-
-
-
-
-//    test2
 }
